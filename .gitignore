@@ -1,4 +1,5 @@
 # placer ici les élements à ignorer par git avec chemin en absolu pa rapport à la positiondu fichier .gitignore du projet
 tmp/*
+*.xml
 *.txt
 
